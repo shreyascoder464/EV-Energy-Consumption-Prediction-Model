@@ -205,7 +205,7 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ## 🙌 Acknowledgments
 
-Developed by Shreyas Rayas💡
+Developed by Shreyas Rayas , Shreya Shreevalli , Sumanth D P💡
 Inspired by EV analytics, real-world energy modeling, and sustainable mobility research.
 
 ---
